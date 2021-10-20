@@ -3,3 +3,7 @@ DesignerJS is a JavaScript library made for styling content and designing good w
 It has things like an icon library (the `djsIcon()` function), a style function (`djsStyle()`), and more!
 
 ## Documentation:
+
+## Want to contribute?
+
+Email me [here](https://cdn-icons-png.flaticon.com/512/38/38002.png) to contribute
