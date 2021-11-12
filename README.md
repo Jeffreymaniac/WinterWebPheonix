@@ -12,14 +12,7 @@ And maniplutating the metadata of a website.
 
 ## Documentation:
 
-### Circles
-Use the `makeCircle();` function for making a circle. 
-
-Function parameters:
-
-* First: x
-* Second: y
-* Third: size
+Go to documation.md for documentation on how to use this.
 
 ## Want to contribute?
 
