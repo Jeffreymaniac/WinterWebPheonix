@@ -12,7 +12,7 @@ And maniplutating the metadata of a website.
 
 ## Documentation:
 
-Go to documation.md for documentation on how to use this.
+Go to documentation.md for documentation on how to use this.
 
 ## Want to contribute?
 
