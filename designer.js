@@ -23,4 +23,7 @@ var i = document.getElementById(id);
 if(icon == "android-icon-black") {
   i.innerHTML = "<img src='https://cdn-icons-png.flaticon.com/512/38/38002.png' />";
   }
+  if(icon == "idk") {
+  i.innerHTML = "<img src='idk' />";
+  }
 }
