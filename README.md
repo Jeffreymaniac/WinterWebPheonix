@@ -13,7 +13,7 @@ And maniplutating the metadata of a website.
 
 ## Documentation:
 
-Go to documentation.md for documentation on how to use this.
+Go to [documentation.md](https://github.com/Jeffreymaniac/DesignerJS/blob/main/documentation.md#documentation) for documentation on how to use this.
 
 ## Want to contribute?
 
