@@ -1,8 +1,7 @@
-var canvas = document.getElementById("djs-canvas");
+
+function canvasCircle(id, x, y, size) {
+  var canvas = document.getElementById(id);
 var ctx = canvas.getContext("2d");
-
-
-function makeCircle(x, y, size) {
 ctx.beginPath();
 ctx.arc(x, y, size, 0, 2 * Math.PI);
 ctx.stroke();
@@ -10,12 +9,15 @@ ctx.stroke();
 
 function djsStyle(id, style) {
 if(style == "box") {
-document.getElementById(id).style.border = "solid black";
+document.getElementById(id).style.border = " 2px solid black";
 }
 if(style == "bold") {
 document.getElementById(id).style.fontWeight="bold";
 }
-  
+if(style == "italic") {
+  document.getElementById(id).style.fontStyle = "italic";
+
+}
 }
 
 function djsIcon(id, icon) {
