@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://jeffreymaniac.github.io/OpenDyslexic-font-for-css/opendyslexic.css')
+
+body {
+    margin:0px;
+}
+#maincontent {
+    margin:12px;
+}
+
+#topnav {
+    
+}
+
+span.category-tag {
+    font-size:14px;
+    padding:10px 10px 10px;
+    color:black;
+    border-radius:20px;
+    font-family:arial;
+}
+/* Fonts */
+.font-opendyslexic {
+    font-family:OpenDyslexic;
+}
+.font-notosans {
+    font-family:Noto Sans;
+}
+.font-monospace {
+    font-family:monospace;
+}
+.font-roboto {
+    font-family:Roboto;
+}
+.font-arial {
+    font-family:Arial;
+}
+.font-comicsans {
+    font-family:Comic Sans MS, cursive;
+}
+
+
+/* Buttons and tags */
+button.pheonix-btn1 {
+    border:2px solid black;
+    border-radius:20px;
+    padding:4px 10px 4px;
+    font-size:16px;
+    font-family:Arial;
+    cursor:pointer;
+}
+button.pheonix-btn1:hover {box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);}
+
+h1.pheonix-header-display {
+font-size:40px;
+font-weight:normal;
+font-family:Noto Sans;
+}
+h2.pheonix-header-display {
+font-size:35px;
+font-weight:normal;
+font-family:Noto Sans;
+}
+h3.pheonix-header-display {
+font-size:30px;
+font-weight:normal;
+font-family:Noto Sans;
+}
+h4.pheonix-header-display {
+font-size:25px;
+font-weight:normal;
+font-family:Noto Sans;
+}
+h5.pheonix-header-display {
+font-size:20px;
+font-weight:normal;
+font-family:Noto Sans;
+}
+h6.pheonix-header-display {
+font-size:15px;
+font-weight:normal;
+font-family:Noto Sans;
+}
+
+/* colors */
+.bg-lightblue {
+    background-color:lightblue;
+}
+.bg-red {
+    background-color:crimson;
+}
+.bg-chocolate {
+    background-color:chocolate;
+}
+.bg-chartreuse {
+    background-color:chartreuse;
+}
+.bg-lavender {
+    background-color:lavender;
+}
+.bg-lightblue {
+    background-color:lightblue;
+}
+.bg-erin {
+    background-color:#00FF40;
+}
+.bg-turquoise {
+    background-color:turquoise;
+}
+.bg-silver {
+    background-color:silver;
+}
+.bg-coral {
+    background-color:coral;
+}
+.bg-gold {
+    background-color:gold;
+}
+.bg-green {
+    background-color:green;
+}
+.bg-skyblue {
+    background-color:DeepSkyBlue;
+}
+.bg-rebbecapurple {
+    background-color:RebbecaPurple;
+}
+.bg-hotpink {
+    background-color:HotPink;
+}
+.bg-seagreen {
+    background-color:SeaGreen;
+}
+.bg-teal {
+    background-color:teal;
+}
+.bg-cyan {
+    background-color:cyan;
+}
+.bg-darkcyan {
+    background-color:DarkCyan;
+}
+.bg-royalblue {
+    background-color:RoyalBlue;
+}
+.bg-dodgerblue {
+    background-color:DodgerBlue;
+}
+.bg-navy {
+    background-color:Navy;
+}
+.bg-skyblue {
+    background-color:DeepSkyBlue;
+}
+.bg-darkviolet {
+    background-color:DarkViolet;
+}
+.bg-blueviolet {
+    background-color:BlueViolet;
+}
+.bg-mediumslateblue {
+    background-color:MediumSlateBlue;
+}
+.bg-olive {
+    background-color:olive;
+}
+.bg-olivedrab {
+    background-color:OliveDrab;
+}
+.bg-forestgreen {
+    background-color:ForestGreen;
+}
+
+/* Text colors: */
+
+.txt-lightblue {
+    color:lightblue;
+}
+.txt-red {
+    color:crimson;
+}
+.txt-chocolate {
+    color:chocolate;
+}
+.txt-chartreuse {
+    color:chartreuse;
+}
+.txt-lavender {
+    color:lavender;
+}
+.txt-lightblue {
+    color:lightblue;
+}
+.txt-erin {
+    color:#00FF40;
+}
+.txt-turquoise {
+    color:turquoise;
+}
+.txt-silver {
+    color:silver;
+}
+.txt-coral {
+    color:coral;
+}
+.txt-gold {
+    color:gold;
+}
+.txt-green {
+    color:green;
+}
+.txt-skyblue {
+    color:DeepSkyBlue;
+}
+.txt-rebbecapurple {
+    color:RebbecaPurple;
+}
+.txt-hotpink {
+    color:HotPink;
+}
+.txt-seagreen {
+    color:SeaGreen;
+}
+.txt-teal {
+    color:teal;
+}
+.txt-cyan {
+    color:cyan;
+}
+.txt-darkcyan {
+    color:DarkCyan;
+}
+.txt-royalblue {
+    color:RoyalBlue;
+}
+.txt-dodgerblue {
+    color:DodgerBlue;
+}
+.txt-navy {
+    color:Navy;
+}
+.txt-skyblue {
+    color:DeepSkyBlue;
+}
+.txt-darkviolet {
+    color:DarkViolet;
+}
+.txt-blueviolet {
+    color:BlueViolet;
+}
+.txt-mediumslateblue {
+    color:MediumSlateBlue;
+}
+.txt-olive {
+    color:olive;
+}
+.txt-olivedrab {
+    color:OliveDrab;
+}
+.txt-forestgreen {
+    color:ForestGreen;
+}
