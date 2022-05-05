@@ -1,29 +1,26 @@
 # Documentation
 
+
+Add this to your js file: `const winterWebPheonixClass = new winterWebPheonix();`
+All of the functions documented below are in that class.
+
+## Page manipulation
+
+### Reload page
+
+Use the `winterWebPheonix.reloadPage();` function for reloading the page
+
 ## Canvas
 
-First, have a canvas element with the attribute: `id="djs-canvas"`. Now you're done setting it up!
 
 ### Circles
-Use the `makeCircle();` function for making a circle. 
+Use the `winterWebPheonix.makeCircle();` function for making a circle. 
 
 Function parameters:
 
-* First: x
-* Second: y
-* Third: size
+* First: id    | the id of the `<canvas>` element that you want the circle to be in
+* Second: x    | the x coordinate of where you want the circle to be
+* Third: y     | the y coordinate of where you want the circle to be
+* Fourth: size | the size of the circle
 
-## Icons
 
-The icons are in multiple different image formats, just not too much of SVG formats. But thats fine, because you specify the color in the value.
-
-The function that you use is `djsIcon()`. 
-
-Function parameters:
-
-* First: id - enter the id of the HTML element that you would like to be replaced by an icon
-* Second: icon - enter the name of the icon
-
-Icon names:
-
-* 
