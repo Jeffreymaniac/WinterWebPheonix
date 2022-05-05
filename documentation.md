@@ -18,9 +18,9 @@ Use the `winterWebPheonix.makeCircle();` function for making a circle.
 
 Function parameters:
 
-* First: id    | the id of the `<canvas>` element that you want the circle to be in
-* Second: x    | the x coordinate of where you want the circle to be
-* Third: y     | the y coordinate of where you want the circle to be
-* Fourth: size | the size of the circle
+* First: `id`    | the id of the `<canvas>` element that you want the circle to be in
+* Second: `x`    | the x coordinate of where you want the circle to be
+* Third: `y`     | the y coordinate of where you want the circle to be
+* Fourth: `size` | the size of the circle
 
 
