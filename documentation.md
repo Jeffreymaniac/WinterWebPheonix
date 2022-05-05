@@ -23,4 +23,8 @@ Function parameters:
 * Third: `y`     | the y coordinate of where you want the circle to be
 * Fourth: `size` | the size of the circle
 
+## Easter eggs
 
+### Rickrolling elements by id
+
+WIP
