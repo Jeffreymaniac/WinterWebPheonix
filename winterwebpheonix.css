@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
-@import url('https://jeffreymaniac.github.io/OpenDyslexic-font-for-css/opendyslexic.css')
 
 body {
     margin:0px;
@@ -7,10 +6,31 @@ body {
 #maincontent {
     margin:12px;
 }
-
-#topnav {
-    
+.topnav {
+  overflow: hidden;
+  background-color: #333;
 }
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+Footer
+
 
 span.category-tag {
     font-size:14px;
@@ -20,8 +40,8 @@ span.category-tag {
     font-family:arial;
 }
 /* Fonts */
-.font-opendyslexic {
-    font-family:OpenDyslexic;
+.font-garamond {
+    font-family:Garamond;
 }
 .font-notosans {
     font-family:Noto Sans;
