@@ -6,7 +6,7 @@ So this will be your HTML file:
 
     <title>your page</title>
     
-    <link rel="stylesheet" href="https://jeffreymaniac.github.io/WinterWebPheonix/src/winterwebpheonix.css" />
+    <link rel="stylesheet" href="https://jeffreymaniac.github.io/WinterWebPheonix/winterwebpheonix.css" />
             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
  
@@ -22,6 +22,6 @@ So this will be your HTML file:
     <p>your page</p>
     
 </div>
-
+<script src="https://jeffreymaniac.github.io/WinterWebPheonix/winterwebpheonix.js" />
   </body>
 </html>
