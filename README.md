@@ -2,7 +2,7 @@
 
 WinterWebPheonix is a JavaScript and CSS library made for styling content and designing good webpages/websites. 
 
-## How to set up
+## How to set up in HTML
 
 go to setup.txt 
 ## Documentation:
