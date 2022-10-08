@@ -29,8 +29,8 @@ body {
   background-color: #04AA6D;
   color: white;
 }
-Footer
 
+button, input[type=button], input[type=submit], input[type=checkbox], input[type="radio"], input[type=reset] {cursor:pointer;}
 
 span.category-tag {
     font-size:14px;
