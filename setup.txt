@@ -3,20 +3,15 @@ So this will be your HTML file:
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-
+    <meta charset="UTF-8">
     <title>your page</title>
     
     <link rel="stylesheet" href="https://jeffreymaniac.github.io/WinterWebPheonix/winterwebpheonix.css" />
-            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
  
   </head>
 <body>
   
-    <nav class="topnav">
-  <a class="" href=""></a>
-</nav>
-
 <div id="maincontent">
     <h1>your page</h1>
     <p>your page</p>
